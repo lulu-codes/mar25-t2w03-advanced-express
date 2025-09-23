@@ -22,12 +22,14 @@ function validateBlogTitle(request, response, next) {
 	}
 
 
-	if (errorArray.length > 0){
-		request.errors = [...errorArray];
-		return next(new Error("Errors occured in validation."));
-	} else {
-		next();
-	}
+	request.errors = [...errorArray];
+	next();
+	// if (errorArray.length > 0){
+	// 	request.errors = [...errorArray];
+	// 	return next(new Error("Errors occured in validation."));
+	// } else {
+	// 	next();
+	// }
 }
 
 

@@ -9,7 +9,12 @@ router.get("/", (request, response) => {
 	})
 });
 
-router.post("/", validateBlogTitle, (request, response) => {
+router.post("/", validateBlogTitle, (request, response, next) => {
+
+	if (request.errors){
+		return next(new Error("There's errors oh my gosh!"));
+	}
+	
 	response.json({
 		message:"placeholder blog post POST endpoint"
 	});
