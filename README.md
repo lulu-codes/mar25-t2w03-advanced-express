@@ -7,6 +7,11 @@ Middleware, git collab practice, authentication and authorisation.
 
 `node --env-file-if-exists=.env ./src/index.js` is the built-in way to process a .env file now, no need for dotenv for default usage.
 
+
 # Contributors
 
+- [AlexStormwood](https://github.com/AlexStormwood)
+- [NhiHuynh](https://github.com/lulu-codes)
+- [JordanLeal-Walker](https://github.com/jordanleal12)
 - [Joss Raine](https://github.com/truth-josstice)
+
