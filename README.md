@@ -12,3 +12,4 @@ Middleware, git collab practice, authentication and authorisation.
 
 - [AlexStormwood](https://github.com/AlexStormwood)
 
+- [maxmoeller-147](https://github.com/maxmoeller-147)
