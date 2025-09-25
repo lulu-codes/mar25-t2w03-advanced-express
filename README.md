@@ -10,8 +10,11 @@ Middleware, git collab practice, authentication and authorisation.
 
 # Contributors
 
+
+
 - [AlexStormwood](https://github.com/AlexStormwood)
 - [NhiHuynh](https://github.com/lulu-codes)
 - [JordanLeal-Walker](https://github.com/jordanleal12)
 - [Joss Raine](https://github.com/truth-josstice)
+- [DiosOne](https://github.com/DiosOne)
 
