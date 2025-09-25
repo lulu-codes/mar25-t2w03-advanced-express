@@ -14,4 +14,5 @@ Middleware, git collab practice, authentication and authorisation.
 - [NhiHuynh](https://github.com/lulu-codes)
 - [JordanLeal-Walker](https://github.com/jordanleal12)
 - [Joss Raine](https://github.com/truth-josstice)
+- [KateMendoza](https://github.com/DellieKate)
 
