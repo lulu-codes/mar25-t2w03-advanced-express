@@ -12,4 +12,4 @@ Middleware, git collab practice, authentication and authorisation.
 
 - [AlexStormwood](https://github.com/AlexStormwood)
 - [NhiHuynh](https://github.com/lulu-codes)
-
+- [JordanLeal-Walker](https://github.com/jordanleal12)
