@@ -18,3 +18,4 @@ Middleware, git collab practice, authentication and authorisation.
 - [Joss Raine](https://github.com/truth-josstice)
 - [DiosOne](https://github.com/DiosOne)
 
+- [maxmoeller-147](https://github.com/maxmoeller-147)
