@@ -10,4 +10,4 @@ Middleware, git collab practice, authentication and authorisation.
 
 # Contributors
 
-- [QuinnMa'aelopa(github.com/quinnsm97)]
+- [Quinn Ma'aelopa](github.com/quinnsm97)
