@@ -18,4 +18,6 @@ Middleware, git collab practice, authentication and authorisation.
 - [maxmoeller-147](https://github.com/maxmoeller-147)
 - [Quinn Ma'aelopa](github.com/quinnsm97)
 - [George Vasiliadis](https://github.com/GVasing)
+- [KateMendoza](https://github.com/DellieKate)
+
 
