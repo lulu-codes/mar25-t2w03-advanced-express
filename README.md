@@ -17,4 +17,5 @@ Middleware, git collab practice, authentication and authorisation.
 - [DiosOne](https://github.com/DiosOne)
 - [maxmoeller-147](https://github.com/maxmoeller-147)
 - [Quinn Ma'aelopa](github.com/quinnsm97)
+- [George Vasiliadis](https://github.com/GVasing)
 
